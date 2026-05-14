@@ -1,2 +1,5 @@
 # SongCat
-Song catalogue terminal app
+
+Song catalogue terminal app.
+
+Visit examples folder
