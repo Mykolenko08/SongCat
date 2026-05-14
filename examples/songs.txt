@@ -1,0 +1,174 @@
+Bohemian Rhapsody|Queen|1975|Rock
+Billie Jean|Michael Jackson|1982|Pop  
+Ain't No Mountain High Enough|Marvin Gaye & Tammi Terrell|1967|Soul
+Achy Breaky Heart|Billy Ray Cyrus|1992|Country
+99 Luftballons|Nena|1983|New Wave
+American Girl|Tom Petty & The Heartbreakers|1976|Rock
+All Along the Watchtower|Jimi Hendrix|1968|Rock
+All Star|Smash Mouth|1999|Alternative Rock
+All of Me|John Legend|2013|Pop
+Barracuda|Heart|1977|Rock
+Bad Romance|Lady Gaga|2009|Pop
+Back in Black|AC/DC|1980|Hard Rock
+Baby One More Time|Britney Spears|1998|Pop
+Annie's Song|John Denver|1974|Folk
+American Idiot|Green Day|2004|Punk Rock
+Back to Black|Amy Winehouse|2006|Soul
+Bad Guy|Billie Eilish|2019|Pop
+Standing on the Shore|Empire of the Sun|2008|Pop
+Let It Happen|Tame Impala|2018|Pop
+Before He Cheats|Paula Cole|1993|Pop
+Blue Monday|New Order|1983|Synth-Pop
+Bitter Sweet Symphony|The Verve|1997|Britpop
+Black Hole Sun|Soundgarden|1994|Grunge
+Smells Like Teen Spirit|Nirvana|1991|Grunge
+Livin' on a Prayer|Bon Jovi|1986|Rock
+Hotel California|Eagles|1976|Rock
+Hey Jude|The Beatles|1968|Rock
+Hallelujah|Jeff Buckley|1994|Folk Rock
+Creep|Radiohead|1992|Alternative
+Brown Eyed Girl|Van Morrison|1967|Pop
+Breakdown|Tom Petty and the Heartbreakers|1985|Rock
+Boulevard of Broken Dreams|Green Day|2004|Alternative Rock
+Chain Reaction|Fleetwood Mac|1975|Rock
+Call Me Maybe|Carly Rae Jepsen|2011|Pop
+Californication|Red Hot Chili Peppers|1999|Alternative Rock
+Crazy in Love|Beyonce ft. Jay-Z|2003|Pop
+Coat of Many Colors|Johnny Cash|1962|Country
+Chop Suey!|System of a Down|2001|Metal
+Clocks|Coldplay|2002|Alternative Rock
+Closer|The Chainsmokers ft. Halsey|2016|Electronic
+Comfortably Numb|Pink Floyd|1979|Progressive Rock
+Come Together|The Beatles|1969|Rock
+Crazy|Gnarls Barkley|2006|Neo Soul
+Don't Stop Me Now|Queen|1978|Rock
+Don't Go Breaking My Heart|Al Green|1968|Soul
+Dog Days Are Over|Florence + The Machine|2009|Indie Pop
+Dancing Queen|ABBA|1976|Pop
+Don't Stop Believin'|Journey|1981|Rock
+Every Breath You Take|The Police|1983|Pop
+Don't You (Forget About Me)|Simple Minds|1985|New Wave
+Enter Sandman|Metallica|1991|Metal
+Free Fallin'|Tom Petty|1989|Rock
+Eye of the Tiger|Survivor|1982|Rock
+Fix You|Coldplay|2005|Alternative
+Firework|Katy Perry|2010|Pop
+Free Bird|Lynyrd Skynyrd|1973|Southern Rock
+Fortunate Son|Creedence Clearwater Revival|1969|Rock
+Gold Digger|Kanye West ft. Jamie Foxx|2005|Hip Hop
+Girls Just Want to Have Fun|Cyndi Lauper|1983|Pop
+Get Lucky|Daft Punk ft. Pharrell Williams|2013|Disco
+Here Comes the Sun|The Beatles|1969|Pop
+Happy|Pharrell Williams|2013|Pop
+Hello|Adele|2015|Pop
+Hot in Herre| Nelly|2002|Hip Hop
+Ho Hey|The Lumineers|2012|Indie Folk  
+Hey Ya!|OutKast|2003|Hip Hop
+Hey There Delilah|Plain White T's|2006|Acoustic Pop
+Hips Don't Lie|Shakira ft. Wyclef Jean|2005|Pop
+Imagine|John Lennon|1971|Pop
+I Can See Clearly Now|Johnny Nash|1972|Pop
+Hound Dog|Elvis Presley|1956|Rock and Roll
+Hotline Bling|Drake|2015|Hip Hop
+House of the Rising Sun|The Animals|1964|Folk Rock
+I Want You Back|The Jackson 5|1969|Pop
+I Gotta Feeling|The Black Eyed Peas|2009|Pop
+I Want You|U2|1982|Rock
+I Heard It Through the Grapevine|Marvin Gaye|1968|Soul
+I Want to Hold Your Hand|The Beatles|1963|Pop
+I'm Still Standing|John Michael Montgomery|1993|Country
+I Will Always Love You|Dolly Parton|1974|Country
+I Will Always Love You|Whitney Houston|1992|Pop
+Ignition (Remix)|R. Kelly|2002|R&B
+I'm Yours|Jason Mraz|2008|Pop
+Killing Me Softly With His Song|Roberta Flack|1973|Soul
+Jolene|Dolly Parton|1973|Country
+It's Raining Men|The Weather Girls|1982|Pop
+In the Aeroplane Over the Sea|Neutral Milk Hotel|1998|Alternative
+In the End|Linkin Park|2001|Nu Metal
+Let's Stay Together|Al Green|1971|Soul
+Lean On Me|Bill Withers|1972|Soul
+Killing Me Softly with His Song|Fugees|1996|Hip Hop
+Landslide|Fleetwood Mac|1975|Folk Rock
+Like a Prayer|Madonna|1989|Pop
+Little Talks|Of Monsters and Men|2011|Indie Folk
+Like a Rolling Stone|Bob Dylan|1965|Folk Rock  
+Purple Rain|Prince|1984|Pop
+Party Rock Anthem|LMFAO ft. Lauren Bennett|2011|Pop
+Lose Yourself|Eminem|2002|Hip Hop
+Low|Flo Rida ft. T-Pain|2007|Hip Hop
+One|U2|1991|Rock
+Nothing Else Matters|Metallica|1991|Metal
+My Girl|The Temptations|1964|Soul
+Mr. Brightside|The Killers|2003|Indie Rock
+No Woman, No Cry|Bob Marley & The Wailers|1974|Reggae
+Old Town Road|Lil Nas X|2019|Country Rap
+Paradise City|Guns N' Roses|1988|Hard Rock
+One|Metallica|1988|Metal
+Paint It Black|The Rolling Stones|1966|Rock
+Pumped Up Kicks|Foster the People|2011|Indie Pop
+Poker Face|Lady Gaga|2008|Pop
+Pride (In the Name of Love)|U2|1984|Rock
+Purple Haze|Jimi Hendrix|1967|Rock
+Ramblin' Man|The Allman Brothers Band|1973|Rock
+Radioactive|Imagine Dragons|2012|Alternative Rock
+Signed, Sealed, Delivered (I'm Yours)|Stevie Wonder|1970|Soul
+Rockin' in the Free World|Lynyrd Skynyrd|1974|Rock
+Ring of Fire|Johnny Cash|1963|Country
+Respect|Aretha Franklin|1967|Soul
+Ring of Fire|Johnny Cash|1963|Country
+Riptide|Vance Joy|2013|Indie Folk
+Rio|Duran Duran|1982|New Wave
+Rock Your Body|Justin Timberlake|2003|Pop
+Shape of You|Ed Sheeran|2017|Pop
+Shake It Off|Taylor Swift|2014|Pop
+Send Me On My Way|R5|2014|Pop
+Semi-Charmed Life|Third Eye Blind|1997|Alternative
+Rolling in the Deep|Adele|2010|Soul
+Royals|Lorde|2013|Indie Pop
+September|Earth, Wind & Fire|1978|Funk
+Seven Nation Army|The White Stripes|2003|Garage Rock
+Should I Stay or Should I Go|The Clash|1982|Punk Rock
+Single Ladies (Put a Ring on It)|Beyonce|2008|Pop
+Someone Like You|Adele|2011|Pop
+Somebody That I Used to Know|Gotye ft. Kimbra|2011|Indie Pop
+Song 2|Blur|1997|Alternative
+Yesterday|The Beatles|1965|Pop
+With or Without You|U2|1987|Rock
+Sunday Bloody Sunday|U2|1992|Rock
+Stairway to Heaven|Led Zeppelin|1971|Rock  
+Sweet Caroline|Neil Diamond|1969|Pop
+What's Going On|Marvin Gaye|1971|Soul
+The Joker|Steve Miller Band|1973|Rock
+Tainted Love|Soft Cell|1981|Synth-Pop
+Sweet Dreams (Are Made of This)|Eurythmics|1983|Synth-Pop
+Sweet Child o' Mine|Guns N' Roses|1987|Hard Rock  
+Teenage Dirtbag|Wheatus|2000|Alternative
+Take on Me|a-ha|1984|Synth Pop
+The Boys of Summer|Don Henley|1984|Rock
+The Sign|A-ha|1985|Pop
+The Scientist|Coldplay|2002|Alternative
+The Suburbs|Arcade Fire|2010|Indie Rock
+The Sound of Silence|Simon & Garfunkel|1965|Folk Rock
+Walk This Way|Aerosmith|1975|Rock
+Thinking Out Loud|Ed Sheeran|2014|Pop
+The Weight|The Band|1968|Folk Rock
+Under Pressure|Queen & David Bowie|1981|Rock
+Thunderstruck|AC/DC|1990|Hard Rock
+Umbrella|Rihanna ft. Jay-Z|2007|Pop
+Toxic|Britney Spears|2003|Pop
+Under the Bridge|Red Hot Chili Peppers|1991|Alternative Rock
+Viva la Vida|Coldplay|2008|Alternative
+Uptown Funk|Mark Ronson ft. Bruno Mars|2014|Funk Pop
+Wake Me Up Before You Go-Go|Wham!|1984|Pop
+Wannabe|Spice Girls|1996|Pop
+Where Is My Mind?|Pixies|1988|Alternative
+Where The Streets Never Sleep|U2|1998|Rock
+Wish You Were Here|Pink Floyd|1975|Progressive Rock
+Yellow|Coldplay|2000|Alternative
+Wonderwall|Oasis|1995|Britpop
+You Are the Sunshine of My Life|Stevie Wonder|1972|Soul
+You Shook Me All Night Long|AC/DC|1980|Rock
+Young Folks|Peter, Bjorn and John|2009|Indie Pop
+You Spin Me Round (Like a Record)|Dead or Alive|1985|New Wave
+Zombie|The Cranberries|1994|Alternative Rock
